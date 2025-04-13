@@ -7,9 +7,9 @@
 
 ## 🔧 Tech Stack
 
-- **Languages**: Java, Python, SQL
-- **Frameworks**: Selenium, Cucumber, TestNG, Pytest, Rest Assured
-- **Tools**: Postman, JMeter, Git, Maven, Power BI
+- **Languages**: Java, Python, JavaScript, Groovy, SQL
+- **Frameworks**: Selenium, Cucumber, Playwright, TestNG, Pytest, Rest Assured
+- **Tools**: Postman, Katalon Studio, JMeter, Git, Maven, Power BI
 - **Concepts**: POM, BDD, CI/CD, API Testing, Data Analysis
 
 ---
@@ -31,7 +31,13 @@ Postman, REST Assured & request-based API testing examples.
 Power BI dashboards and Jupyter data explorations.
 
 ### 💚 [⭐ Cucumber Projects](https://github.com/stars/rrefaat/lists/cucumber-bdd)  
-BDD frameworks with Gherkin + Cucumber (Java & Python).
+BDD frameworks with Gherkin syntax and Cucumber.
+
+### 🟠 [⭐ Katalon & Groovy](https://github.com/stars/rrefaat/lists/katalon-groovy)  
+Automation projects using Katalon Studio and Groovy scripting.
+
+### 🟢 [⭐ Playwright & JavaScript](https://github.com/stars/rrefaat/lists/playwright-js)  
+Modern web testing using Playwright with JS/TS.
 
 ---
 
